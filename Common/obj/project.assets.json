@@ -4989,11 +4989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r.abbasi\\source\\repos\\RegApp\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\r.abbasi\\Desktop\\project\\RegApp\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\r.abbasi\\source\\repos\\RegApp\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\r.abbasi\\Desktop\\project\\RegApp\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\r.abbasi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r.abbasi\\source\\repos\\RegApp\\Common\\obj\\",
+      "outputPath": "C:\\Users\\r.abbasi\\Desktop\\project\\RegApp\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

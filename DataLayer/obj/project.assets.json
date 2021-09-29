@@ -5756,11 +5756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r.abbasi\\source\\repos\\RegApp\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\r.abbasi\\Desktop\\project\\RegApp\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "C:\\Users\\r.abbasi\\source\\repos\\RegApp\\DataLayer\\DataLayer.csproj",
+      "projectPath": "C:\\Users\\r.abbasi\\Desktop\\project\\RegApp\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\r.abbasi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r.abbasi\\source\\repos\\RegApp\\DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\r.abbasi\\Desktop\\project\\RegApp\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
